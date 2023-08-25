@@ -1,0 +1,28 @@
+{
+    "participants": [
+        {
+            "firstName": "Andrew",
+            "lastName": "Holzbog",
+            "currentScore": 68,
+            "toNetPar": "-2"
+        },
+        {
+            "firstName": "Tyler",
+            "lastName": "Barnett",
+            "currentScore": 75,
+            "toNetPar": "+3"
+        },
+        {
+            "firstName": "Phillip",
+            "lastName": "Sollman",
+            "currentScore": 82,
+            "toNetPar": "+5"
+        },
+        {
+            "firstName": "Ross",
+            "lastName": "Kunkler",
+            "currentScore": 89,
+            "toNetPar": "+2"
+        }
+    ]
+}
