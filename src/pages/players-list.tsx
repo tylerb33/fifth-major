@@ -23,7 +23,7 @@ export default function PlayersList() {
         >
         <List>
           <Grid container>     
-            <Grid xs={1} sm={2} md={3}></Grid>
+            <Grid xs={1} sm={2} md={4}></Grid>
             <Grid xs={10} sm={8} md={4}>
               { data.participants.map((value) => (
                   <ListItem className='player-list-individual-outline'>
